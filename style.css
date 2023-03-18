@@ -1,0 +1,462 @@
+body {
+    background-color: rgb(31, 31, 31);
+}
+/* FIRST HEADER */
+
+.logo {
+    color: #FFFFFF;
+    position: relative;
+    left: 59px;
+    top: 27px;
+    height: 72px;
+    width: 159px;
+    margin: 0;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+}
+.searchArea {
+    position: absolute;
+    border-radius: 15px;
+    background: #262626;
+    height: 53px;
+    width: 597px;
+    left: 319px;
+    top: 33px;
+}
+
+.search {
+    color: rgba(255, 255, 255, 0.2);
+    position: relative;
+    width: 75px;
+    height: 28px;
+    left: 28px;
+    top: 14px;
+    margin: 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+}
+.navText {
+    position: absolute;
+    left: 37px;
+    top: 10px;
+    margin: 0;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+
+    color: #FFFFFF;
+
+}
+.commonArea {
+    position: absolute;
+    width: 134px;
+    height: 53px;
+    top: 33px;
+
+    border: none;
+
+    background: #262626;
+    border-radius: 15px;
+}
+
+.login {
+    left: 958px;
+}
+
+.explore {
+    left: 1125px;
+}
+
+.rent {
+    left: 1280px;
+}
+
+
+
+/*ABOUT US*/
+
+.rectangle1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1323px;
+    height: 588px;
+    left: 59px;
+    top: 137px;
+    background: #262626;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;position: absolute;
+    width: 1323px;
+    height: 588px;
+    left: 59px;
+    top: 137px;
+}
+
+.aboutUs {
+    position: relative;
+    width: 335px;
+    height: 53px;
+    left: 46px;
+    top: 41px;
+
+    margin: 0;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+
+    color: #FFFFFF;
+}
+.aboutTextCommon {
+    position: absolute;
+width: 846px;
+height: 53px;
+left: 224px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+
+color: #C4C4C4;
+}
+
+.aboutText1 {
+    top: 185px;;
+}
+
+.aboutText2 {
+    top: 317px;
+}
+
+.aboutText3 {
+    top: 453px;
+}
+
+.aboutUsButton {
+    position: absolute;
+width: 260px;
+height: 107px;
+left: 1011px;
+top: 429px;
+border: none;
+background: #FECB03;
+border-radius: 50px;
+}
+
+.aboutUsButtonText {
+    position: absolute;
+width: 205px;
+height: 53px;
+left: 36px;
+top: 27px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 52px;
+/* identical to box height */
+color: #262626;
+}
+.iconAreaCommon {
+    position: absolute;
+width: 105px;
+height: 105px;
+left: 93px;
+
+background: #FECB03;
+border-radius: 100px;
+}
+
+.iconArea1 {
+    top: 156px;
+}
+
+.iconArea2 {
+    top: 290px;
+}
+
+.iconArea3 {
+    top: 424px;
+}
+
+.timerArea {
+    position: absolute;
+width: 270px;
+height: 270px;
+left: 997px;
+top: 104px;
+
+margin: 0;
+
+background: #FECB03;
+border-radius: 1000px;
+}
+
+.iconDetails {
+    width: 50%;
+    margin: 25%;
+}
+
+.timerDetails {
+    position: absolute;
+width: 279px;
+height: 279px;
+left: 993px;
+top: 100px;
+}
+
+
+
+/*OUR CATEGORIES*/
+
+.ourCategories {
+    position: absolute;
+    width: 453px;
+    height: 76px;
+    left: 105px;
+    top: 813px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 68px;
+
+    color: #FFFFFF;
+}
+
+.card {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 346px;
+    height: 391px;
+
+    background: #1F1F1F;
+    border: 3px solid #262626;
+    border-radius: 20px;
+}
+
+.card1 {
+    left: 119px;
+    top: 965px;
+}
+
+.card2 {
+    left: 532.36px;
+top: 965px;
+}
+
+.card3 {
+    left: 944px;
+top: 965px;
+}
+
+.card4 {
+    left: 119px;
+top: 1418px;
+}
+
+.card5 {
+    left: 532.36px;
+top: 1418px;
+}
+
+.card6 {
+    left: 944px;
+top: 1418px;
+}
+
+.cardText {
+    position: absolute;
+width: 269px;
+height: 53px;
+left: 27px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+
+color: #C4C4C4;
+
+}
+
+.cardDetails {
+    position: relative;
+width: 283px;
+height: 183px;
+left: 27px;
+top: 89px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+
+color: rgba(255, 255, 255, 0.8);
+
+}
+
+.cardButton {
+    position: relative;
+width: 169.44px;
+height: 58px;
+left: 158.65px;
+top: 100px;
+
+background: #FECB03;
+border-radius: 50px;
+}
+
+.cardButtonText {
+    position: absolute;
+width: 98.21px;
+height: 29px;
+left: 40px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+
+color: #262626;
+}
+
+
+
+
+
+
+/* DETAILS AREA*/
+.detailsArea {
+    position: absolute;
+width: 1346px;
+height: 283px;
+left: 33px;
+top: 1885px;
+
+background: #262626;
+border-radius: 30px;
+}
+
+.title1 {
+    position: absolute;
+width: 335px;
+height: 53px;
+left: 43px;
+top: 25px;
+
+margin: 0;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+
+color: #FFFFFF;
+
+}
+
+.content {
+    position: absolute;
+width: 513px;
+height: 183px;
+left: 43px;
+top: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+
+color: rgba(255, 255, 255, 0.8);
+
+}
+
+.title2 {
+    position: absolute;
+width: 335px;
+height: 53px;
+left: 668px;
+top: 35px;
+
+margin: 0;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+
+.title3 {
+    position: absolute;
+width: 335px;
+height: 53px;
+left: 1026px;
+top: 31px;
+
+margin: 0;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+}
+
+.details1 {
+    position: absolute;
+width: 513px;
+height: 183px;
+left: 668px;
+top: 93px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 35px;
+
+
+color: rgba(255, 255, 255, 0.8);
+}
+
+.details2 {
+    position: absolute;
+width: 513px;
+height: 183px;
+left: 1030px;
+top: 84px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 35px;
+color: rgba(255, 255, 255, 0.8);
+}
+
